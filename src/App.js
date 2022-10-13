@@ -1,14 +1,16 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 
 import './App.css';
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import Counter from './src/Pages/Counter';
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <Counter />
+        {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -19,18 +21,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Count - {count}
-        </a>
-        <button
-          onClick={() => setCount(prevCount => prevCount + 1)}
-        >
-          Increase
-        </button>
+        </a> */}
 
-        <button
-          onClick={() => setCount(prevCount => prevCount - 1)}
-        >
-          Decrease
-        </button>
       </header>
     </div>
   );
