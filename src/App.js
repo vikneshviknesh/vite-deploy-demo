@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import { useState } from 'react';
 
 import './App.css';
 import logo from './logo.svg';
@@ -14,13 +14,23 @@ function App() {
         </p>
         <a
           className="App-link"
-          // href="https://reactjs.org"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-          onClick={()=>setCount(prevCount=>prevCount+1)}
         >
           Count - {count}
         </a>
+        <button
+          onClick={() => setCount(prevCount => prevCount + 1)}
+        >
+          Increase
+        </button>
+
+        <button
+          onClick={() => setCount(prevCount => prevCount - 1)}
+        >
+          Decrease
+        </button>
       </header>
     </div>
   );
