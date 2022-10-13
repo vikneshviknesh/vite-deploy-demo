@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ghtb-actions-poc/static/css/main.073c9b0a.css",
+    "main.js": "/ghtb-actions-poc/static/js/main.b5fec443.js",
+    "static/js/787.fff55129.chunk.js": "/ghtb-actions-poc/static/js/787.fff55129.chunk.js",
+    "static/media/logo.svg": "/ghtb-actions-poc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ghtb-actions-poc/index.html",
+    "main.073c9b0a.css.map": "/ghtb-actions-poc/static/css/main.073c9b0a.css.map",
+    "main.b5fec443.js.map": "/ghtb-actions-poc/static/js/main.b5fec443.js.map",
+    "787.fff55129.chunk.js.map": "/ghtb-actions-poc/static/js/787.fff55129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b5fec443.js"
+  ]
+}
