@@ -2,7 +2,7 @@
   "name": "github-actions-heroku",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vikneshviknesh.github.io/ghtb-actions-poc",
+  "homepage": "https://vikneshviknesh.github.io/vite-deploy-demo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
