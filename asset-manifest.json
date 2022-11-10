@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vite-deploy-demo/static/css/main.073c9b0a.css",
-    "main.js": "/vite-deploy-demo/static/js/main.8b9e3314.js",
+    "main.js": "/vite-deploy-demo/static/js/main.0fc1f469.js",
     "static/js/787.fff55129.chunk.js": "/vite-deploy-demo/static/js/787.fff55129.chunk.js",
     "index.html": "/vite-deploy-demo/index.html",
     "main.073c9b0a.css.map": "/vite-deploy-demo/static/css/main.073c9b0a.css.map",
-    "main.8b9e3314.js.map": "/vite-deploy-demo/static/js/main.8b9e3314.js.map",
+    "main.0fc1f469.js.map": "/vite-deploy-demo/static/js/main.0fc1f469.js.map",
     "787.fff55129.chunk.js.map": "/vite-deploy-demo/static/js/787.fff55129.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8b9e3314.js"
+    "static/js/main.0fc1f469.js"
   ]
 }
