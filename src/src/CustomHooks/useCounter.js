@@ -8,7 +8,9 @@ export function useCounter() {
     }
 
     const decrement = () => {
-        setCount(prevCount => prevCount - 1)
+        if (count > -1) {
+            setCount(prevCount => prevCount - 1)
+        }
     }
     return { count, increment, decrement }
 }
